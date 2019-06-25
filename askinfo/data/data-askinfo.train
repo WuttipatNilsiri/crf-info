@@ -1,0 +1,105 @@
+can O
+i O
+ask O
+for O
+detail O
+about O
+payment B-TOPIC
+. O
+
+can O
+i O
+ask O
+for O
+information O
+about O
+payment B-TOPIC
+. O
+
+can O
+i O
+ask O
+for O
+information O
+about O
+shipping B-TOPIC
+. O
+
+i O
+want O
+to O
+know O
+detail O
+about O
+shipping B-TOPIC
+. O
+
+can O
+i O
+ask O
+what O
+is O
+the B-TOPIC
+work I-TOPIC
+hours I-TOPIC
+. O
+
+can O
+i O
+ask O
+if O
+my O
+item O
+that O
+have O
+local O
+track O
+number O
+5465446564546 B-ID
+arrive B-TOPIC
+at I-TOPIC
+warehouse I-TOPIC
+. O
+
+can O
+i O
+ask O
+if O
+my O
+package O
+44654465446 B-ID
+is O
+arrived B-TOPIC
+at I-TOPIC
+warehouse I-TOPIC
+or O
+not O
+. O
+
+i O
+want O
+to O
+know O
+information O
+about O
+the B-TOPIC
+promotion I-TOPIC
+. O
+
+can O
+i O
+ask O
+what O
+is O
+the B-TOPIC
+promotion I-TOPIC
+right O
+now O
+. O
+
+what O
+is O
+the B-TOPIC
+promotion I-TOPIC
+currently O
+. O
